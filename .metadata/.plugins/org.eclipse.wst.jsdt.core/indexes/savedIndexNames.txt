@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+/home/simple-task/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3517952031.index
+1147979034.index
+2880300206.index
+337329620.index
+351875356.index
+301493535.index
+512456395.index

@@ -1,0 +1,8 @@
+model/Dodaci.class
+managers/JPAUtil.class
+model/Iznajmiti.class
+model/User.class
+managers/CenovnikManager.class
+model/Cena.class
+model/Soba.class
+model/Klijent.class
